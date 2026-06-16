@@ -1,0 +1,26 @@
+{
+    "name": "BeeneticToolkit.Unity.PlayModeTests",
+    "rootNamespace": "BeeneticToolkit.Unity.Tests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "BeeneticToolkit.Random.dll",
+        "BeeneticToolkit.Collections.dll",
+        "BeeneticToolkit.Numerics.dll",
+        "BeeneticToolkit.Logging.dll",
+        "BeeneticToolkit.Spatial.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
