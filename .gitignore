@@ -1,0 +1,38 @@
+# ── Unity ────────────────────────────────────────────────────────────────
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+.vsconfig
+
+# Generated IDE/project files (Unity regenerates these)
+*.csproj
+*.sln
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+.idea/
+.vs/
+
+# Asset bundles / crash reports
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+sysinfo.txt
+
+# ── NuGetForUnity ────────────────────────────────────────────────────────
+# Restored on project load from Assets/packages.config — don't commit the DLLs.
+Assets/Packages/
+Assets/Packages.meta
