@@ -1,0 +1,16 @@
+{
+    "name": "BeeneticToolkit.Unity.StrippingSubject",
+    "rootNamespace": "BeeneticToolkit.Unity.Subjects",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "BeeneticToolkit.Collections.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

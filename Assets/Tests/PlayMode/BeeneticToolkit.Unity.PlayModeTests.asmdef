@@ -3,7 +3,8 @@
     "rootNamespace": "BeeneticToolkit.Unity.Tests",
     "references": [
         "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner"
+        "UnityEditor.TestRunner",
+        "BeeneticToolkit.Unity.StrippingSubject"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
