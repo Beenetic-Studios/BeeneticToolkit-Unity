@@ -1,0 +1,17 @@
+{
+    "name": "BeeneticToolkit.Unity.Playground",
+    "rootNamespace": "BeeneticToolkit.Unity.Playground",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "BeeneticToolkit.Spatial.dll",
+        "BeeneticToolkit.Collections.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
